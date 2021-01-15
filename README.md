@@ -1,4 +1,4 @@
-# sports_club
+# sports_club - a Vue App.
 
 ## Project setup
 ```
